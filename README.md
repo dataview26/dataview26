@@ -5,7 +5,7 @@ Welcome to my GitHub. I work at the intersection of **large language models (LLM
 
 ---
 
-### 🧠 Current Focus
+###  Current Focus
 My recent research has centered on:
 - Understanding the **capabilities, limitations, and emergent behaviors** of LLMs  
 - Investigating **multi-agent coordination and communication**  
@@ -25,7 +25,7 @@ My recent research has centered on:
 
 ---
 
-### 🌍 Beyond the Code
+###  Beyond the Code
 Outside research, I’m passionate about:
 - **Deep learning ethics** and the societal impact of AI  
 - **Experimental automation** and intelligent infrastructure  
