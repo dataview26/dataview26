@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jones 
-### Research Engineer (Genetic AI)
+### Research Engineer (Multi-Agent AI)
 
 Welcome to my GitHub. I work at the intersection of **large language models (LLMs)**, **multi-agent systems**, and **emergent intelligence** — exploring how intelligent systems can learn, collaborate, and evolve safely.
 
