@@ -33,6 +33,11 @@ Outside research, I’m passionate about:
 
 ---
 
+## 🏆 Certifications
+- 🎓 [Scientific Computing with Python](https://www.freecodecamp.org/certification/jones26/scientific-computing-with-python) — freeCodeCamp  
+
+---
+
 ### 📫 Connect
 - 💼 https://www.linkedin.com/in/vialli-j-16678a1a7/
 - 🧩 https://tryhackme.com/p/Jones26
