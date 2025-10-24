@@ -34,7 +34,7 @@ Outside research, I’m passionate about:
 ---
 
 ## 🏆 Certifications
-- 🎓
+ 🎓
 ### Scientific Computing with Python (FreeCodeCamp)
 https://www.freecodecamp.org/certification/jones26/scientific-computing-with-python-v7
 
