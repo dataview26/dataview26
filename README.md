@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jones  
 
-### Research Engineer (Multi-Agent AI)
+### Research Engineer (Agentic AI)
 
-Welcome to my GitHub. I explore the intersection of **large language models (LLMs)**, **multi-agent systems**, and **emergent intelligence** — studying how intelligent systems can learn, collaborate, and evolve safely.
+Welcome to my GitHub. I explore the intersection of **large language models (LLMs)**, **agentic ai**, and **emergent intelligence** — studying how intelligent systems can learn, collaborate, and evolve safely.
 
 ---
 
